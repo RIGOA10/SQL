@@ -1,0 +1,49 @@
+type,item,market,reveal_body,slug
+length,short shorts,f,true,short* shorts
+length,short skirts,f,true,short* skirt
+undergarment,visible,n,true,visible underwear
+pants,sagging rest below waist,m,true,sagging pants
+clothing,see through sheer,f,true,sheer clothing
+shirt,tube strapless,f,true,strapless top
+shirt,halter tops,f,true,halter top
+shirt,spaghetti string straps,f,true,spaghetti strap
+clothing,low necklines,f,true,low neckline
+length,short dresses,f,true,short* dresses
+clothing,pajamas,n,false,pajamas
+shirt,tank tops,n,true,tank top
+shirt,muscle shirts open sides,m,true,muscle shirt
+shirt,narrow straps,f,true,narrow straps
+clothing,too tight,f,true,tight clothing
+pants,leggings,f,true,leggings
+clothing,too loose,n,false,loose clothing
+clothing,revealing,f,true,revealing clothing
+shirt,backless,f,true,backless shirt
+shirt,crop top,f,true,crop top
+clothing,fishnet mesh attire,f,true,fishnet clothing
+undergarment,visible bra straps,f,true,visible bra straps
+pants,with holes above mid thigh,n,true,holes above thigh
+shirt,sleeveless,n,true,sleeveless shirt
+clothing,frayed cut torn with holes,n,true,frayed clothing
+clothing,extremely brief short,f,true,short* clothing
+shorts,bike shorts,n,true,bike shorts
+shorts,cutoffs un hemmed,f,true,cutoff shorts
+clothing,sexually provocative suggestive,f,true,provocative clothing
+skirt.dress,backless,f,true,backless dress
+clothing,spandex,n,true,spandex clothing
+clothing,immodest,f,true,immodest clothing
+shirt,off the shoulder,f,true,off shoulder shirt
+undergarment,none,n,true,no underwear
+clothing,dirty,n,false,dirty clothing
+shirt,undershirts,n,true,undershirt
+pants,un hemmed,n,false,cutoff pants
+pants,with holes above knee,n,true,holes above knee
+clothing,low backlines,f,true,low backline
+pants,with holes,n,true,pants with holes
+shorts,athletic gym shorts,n,true,gym shorts
+clothing,beachwear swim suit sun suit,n,true,swimwear
+shirt,excessively long,n,false,very long shirt
+shirt,too short to touch top of pants,f,true,short* shirt
+undergarment,undergarments as outergarments,,,
+skirt.dress,strapless dresses,f,true,strapless dress
+shirt,unfastened,n,true,unfastened shirt
+skirt.dress,un hemmed,f,true,cutoff skirt
